@@ -1,0 +1,10 @@
+.button-purple  {
+	background-color: rgb(81,158,207);
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+
+.button-purple:hover {
+	background-color: black;
+	color: white;
